@@ -10,5 +10,7 @@ This project is used to practice Git and GitHub collaboration workflows.
 
 ## Feature
 
-This project demonstrates a simple feature
-development workflow using Git and GitHub.
+This project demonstrates how a new
+feature can be documented, reviewed,
+and integrated into a project using
+GiHub's collaborative workflow.
